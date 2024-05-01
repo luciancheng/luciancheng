@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Lucian Cheng
 
 ## 📚 About Me
-I'm currently a third-year student studying Mechatronics and Biomedical Engineering at McMaster University. I am interested in learning about the different realms of software development and making safe, reliable, and robust software applications. I aim to use my background in software, electrical, and biomedical engineering to transform concepts into reality, shaping innovative solutions.
+- I'm currently a third-year student studying Mechatronics and Biomedical Engineering at McMaster University.
+- Interested in learning about the different realms of software development and making safe, reliable, and robust software applications.
+- I aim to use my background in software, electrical, and biomedical engineering to transform concepts into reality, shaping innovative solutions.
 
 ## 🔗 Connect With Me
 Feel free to reach out to me on [Linkedin](www.linkedin.com/in/luciancheng)
