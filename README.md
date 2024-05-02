@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucian Cheng
+# 👋 Hi, I'm Lucian Cheng!
 
 ## 📚 About Me
 - I'm currently a fourth-year student studying Mechatronics and Biomedical Engineering at McMaster University.
