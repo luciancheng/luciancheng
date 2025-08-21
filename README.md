@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lucian Cheng!
 
 ## 📚 About Me
-- I'm currently a fourth-year student studying Mechatronics and Biomedical Engineering at McMaster University.
+- I'm currently a fifth-year student studying Mechatronics and Biomedical Engineering at McMaster University.
 - Interested in learning about the different realms of software development and making safe, reliable, and robust software applications.
 - I aim to use my software, electrical, and biomedical engineering background to transform concepts into reality, shaping innovative solutions.
 
